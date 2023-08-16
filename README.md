@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Rust Enthusiast Building Full-Stack Dreams
+
+Greetings! I'm Zaaf Hachem Rachid. Rust is my domain of expertise, and I'm expanding my horizons by mastering HTML, CSS, and JS for frontend magic. I craft with Yew and Tauri in the frontend realm, while Axum powers my backend aspirations. Join me in my journey to create seamless full-stack experiences.</p>
 
 ###
 ---
