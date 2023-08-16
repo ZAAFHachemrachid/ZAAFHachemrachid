@@ -1,25 +1,78 @@
-### Hi there 👋, my name is rachid
-#### Exploring Code, Creating Solutions  Hello! I'm Zaaf Hachem Rachid, a Computer Science student who finds joy in coding and embracing new challenges. Proficient in C and Rust, I'm also delving into web technologies like HTML, CSS, and JS, alongside databases like SQL and PostgreSQL. My latest venture includes cross-platform app development using Rust's Yew and Tauri libraries. Join me as I journey through the ever-evolving landscape of technology.
-About Me: Zaaf Hachem Rachid
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Hello! I'm Zaaf Hachem Rachid, a college student studying Computer Science. I thrive on coding and the thrill of learning new things. Proficient in C and Rust, I'm also diving into web tech like HTML/CSS/JS and databases like SQL/PostgreSQL. An exciting project of mine involves cross-platform app development using Rust's Yew and Tauri libraries. My journey is fueled by curiosity, and I'm on a mission to contribute to the tech world's evolution.
+###
 
-Skills: RUST / C /JS / HTML / CSS
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
-- 🔭 I’m currently working on Backend using rust /Axum 
-- 🌱 I’m currently learning Api with Axum 
-- 👯 I’m looking to collaborate on with any project if i can 
-- 🤔 I’m looking for help with Telgram bot using a rust base code 
-- 💬 Ask me about any think if i can help you i well 
-- 📫 How to reach me: on social 
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZaafHachemrachid.ZaafHachemrachid&"  />
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZAAFHachemrachid)  
+###
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZAAFHachemrachid&show_icons=true)  
+<h2 align="left">About me</h2>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZAAFHachemrachid)  
+###
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ZAAFHachemrachid)  
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-![Profile views](https://gpvc.arturio.dev/ZAAFHachemrachid)  
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaafHachemrachid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZaafHachemrachid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ZaafHachemrachid&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h2 align="left">Social media</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ZaafHachemrachid/ZaafHachemrachid/output/snake.svg" alt="Snake animation" />
+
+###
