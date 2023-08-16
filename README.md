@@ -5,7 +5,7 @@
 <p align="left">My name is ... and I'm a ..., from ....</p>
 
 ###
-
+---
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ZaafHachemrachid.ZaafHachemrachid&"  />
 </div>
@@ -72,7 +72,4 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ZaafHachemrachid/ZaafHachemrachid/output/snake.svg" alt="Snake animation" />
-
 ###
