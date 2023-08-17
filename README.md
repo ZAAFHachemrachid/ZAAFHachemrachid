@@ -79,6 +79,20 @@ Greetings! I'm Zaaf Hachem Rachid. Rust is my domain of expertise, and I'm expan
 
 ###
 
+<h2 align="left">I am learning now</h2>
+
+###
+
+<div align="left">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
 <br clear="both">
 
 <div align="center">
