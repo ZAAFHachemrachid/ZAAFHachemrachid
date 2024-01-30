@@ -13,6 +13,7 @@ Later
 *   🧠  I'm learning Sevelt and tauri
 *   🤝  I'm open to collaborating on Rust base project and sevelt and Custom Tkinter project
 *   ⚡  later
+-----------
 <a href="https://www.github.com/ZAAFHachemrachid" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/ZAAFHachemrachid?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
 ### Skills
