@@ -1,7 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zaaf Hachem Rachid==========================================================================================================================================Backend Dev-----------Later* 🌍  I'm based in Algeria* 🖥️  See my portfolio at [zaaf hachem rachid](http://zaafhachem.vercel.app)* ✉️  You can contact me at [rachidzaaf9@gmail.com](mailto:rachidzaaf9@gmail.com)* 🚀  I'm currently working on [Kernel](http://zaafhachem.vercel.app/rsKernel)* 🧠  I'm learning Sevelt and tauri* 🤝  I'm open to collaborating on Rust base project and sevelt and Custom Tkinter project* ⚡  later
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zaaf Hachem Rachid
+==========================================================================================================================================
 
-<a href="https://www.github.com/ZAAFHachemrachid" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/github/followers/ZAAFHachemrachid?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
+Backend Dev
+-----------
 
+Later
+
+*   🌍  I'm based in Algeria
+*   🖥️  See my portfolio at [zaaf hachem rachid](http://zaafhachem.vercel.app)
+*   ✉️  You can contact me at [rachidzaaf9@gmail.com](mailto:rachidzaaf9@gmail.com)
+*   🚀  I'm currently working on [Kernel](http://zaafhachem.vercel.app/rsKernel)
+*   🧠  I'm learning Sevelt and tauri
+*   🤝  I'm open to collaborating on Rust base project and sevelt and Custom Tkinter project
+*   ⚡  later
+<a href="https://www.github.com/ZAAFHachemrachid" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/ZAAFHachemrachid?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
 ### Skills
 
 
