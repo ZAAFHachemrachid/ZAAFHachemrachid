@@ -13,6 +13,12 @@
   </a>
 </p>
 
+## 👨‍💻 About Me
+
+I'm a self-driven developer from Algeria who builds across the full stack — from pixel-perfect UIs to bare-metal embedded systems. I started with low-level systems programming and Rust, and expanded into building real-world products that actually ship: gym platforms, school management systems, and now drone & IoT infrastructure. I care deeply about performance, clean architecture, and writing software that lasts. When I'm not writing code, I'm probably learning something I didn't know I needed yet.
+
+---
+
 - 🔭 Currently working on: Drone systems & long-range IoT communication
 - 🌱 Exploring: Embedded systems, distributed architectures, and real-time data pipelines
 - 💬 Ask me about: Rust, systems programming, backend architecture, or full-stack product development
@@ -46,14 +52,19 @@
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-141414?style=for-the-badge&logo=convex&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Editors
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zed&logoColor=white)
 
 ---
 
@@ -93,12 +104,6 @@ _Embedded systems project focused on autonomous drones and IoT infrastructure_
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/ZAAFHachemrachid">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZAAFHachemrachid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAAFHachemrachid&layout=compact&langs_count=8&theme=dark"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZAAFHachemrachid&theme=dark" alt="GitHub Streak"/>
