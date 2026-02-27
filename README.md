@@ -15,7 +15,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a self-driven developer from Algeria who builds across the full stack — from pixel-perfect UIs to bare-metal embedded systems. I started with low-level systems programming and Rust, and expanded into building real-world products that actually ship: gym platforms, school management systems, and now drone & IoT infrastructure. I care deeply about performance, clean architecture, and writing software that lasts. When I'm not writing code, I'm probably learning something I didn't know I needed yet.
+I’m a self-driven developer from Algeria who builds where the digital meets the physical. I specialize in the full stack—from clean, functional interfaces built on modern primitives like shadcn/ui to the bare-metal logic of embedded systems.
+
+My foundation is in low-level systems and Rust, which instilled a "no-magic" approach to software. I don't just build apps; I build real-world products that ship—ranging from gym and school management platforms to my current work in drone and IoT infrastructure. I prioritize performance, maintainable architecture, and systems that don't break under pressure.
+
+When I'm not writing code, I'm probably learning something I didn't know I needed yet.
 
 ---
 
